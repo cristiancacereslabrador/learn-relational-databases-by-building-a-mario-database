@@ -291,3 +291,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ALTER DATABASE first_database RENAME TO mario_database
 psql --username=freecodecamp --dbname=first_database
 psql --username=freecodecamp --dbname=second_database
+psql --username=freecodecamp --dbname=mario_database
