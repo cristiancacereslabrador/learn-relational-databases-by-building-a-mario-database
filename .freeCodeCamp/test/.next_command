@@ -823,3 +823,11 @@ echo -n e0ecdaa4-c23e-455e-9c28-2d915a747657
 cat /proc/self/environ
 echo -n e0ecdaa4-c23e-455e-9c28-2d915a747657
 psql --username=freecodecamp --dbname=mario_database
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+psql --username=freecodecamp --dbname=mario_database
